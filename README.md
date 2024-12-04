@@ -1,5 +1,4 @@
-
-
+[![MasterHead](https://www.developerguru.in/images/courses/mern_stack.gif)](https://jeetjoshi28.io)
 <h1 align="center">Hi 👋, I'm Jeet Joshi</h1>
 <h3 align="center">a tech enthusiast on a mission to code the future! 🚀</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
